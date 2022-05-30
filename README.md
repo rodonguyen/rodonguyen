@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Interoperability API with S23M to create a Comprehensive (ANZIL) Tutorials for new developers.
 - 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about World Finance and Films :)
+- 💬 Ask me about World Finance and Films 
 - 📫 How to reach me: rodonguyendd AT gmail com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: broke my arm within 6 months of having my first motorbike and told others that I fought for girls :) 
