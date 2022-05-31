@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on Interoperability API with S23M to create a Comprehensive (ANZIL) Tutorials for new developers.
 - 🌱 I’m currently learning Machine Learning, Django
-- 💬 Ask me about World Finance and Films 
+- 💬 Ask me about Finance and Films 
 - 📫 How to reach me: rodonguyendd AT gmail com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: broke my arm within 6 months of having my first motorbike and told others that I fought for girls :) 
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: love cryptocurrencies, lost an amount due to hacker :(  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rodonguyen&count_private=true&show_icons=true&theme=algolia">
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodonguyen&layout=compact)](https://github.com/rodonguyen/github-readme-stats">
