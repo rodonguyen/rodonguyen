@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Rodo here.
 
 - 🔭 I’m currently working on Interoperability API with S23M to create a Comprehensive (ANZIL) Tutorials for new developers.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, Django
 - 💬 Ask me about World Finance and Films 
 - 📫 How to reach me: rodonguyendd AT gmail com
 - 😄 Pronouns: he/him
