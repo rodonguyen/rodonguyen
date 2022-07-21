@@ -1,17 +1,15 @@
 ### Hi there 👋 It's Rodo here.
 ### Gonna-be AI Engineer or SWE or Data Scientist or Blockchain Engineer or Researcher, i don't know, life has too many choices. 
 
-
 - 🔭 I’m currently working on BitTracker (Trading Bot) using SuperTrend
 - 🌱 I’m currently learning Machine Learning, Web App
 - 😄 Pronouns: he/him  
 - ⚡ Cryptocurrencies & blockchain enthusiast, lost an amount due to hacker :)))  
 
+[![Rodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodonguyen&count_private=true&show_icons=true&theme=algolia)](https://www.linkedin.com/in/rodonguyen/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodonguyen&layout=compact)](https://github.com/rodonguyen/github-readme-stats) 
 [![Linkedin Badge](https://img.shields.io/badge/rodonguyen-vn?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodonguyen/)](https://www.linkedin.com/in/rodonguyen/)
 
-[![Rodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodonguyen&count_private=true&show_icons=true&theme=algolia)](https://www.linkedin.com/in/rodonguyen/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodonguyen&layout=compact)](https://github.com/rodonguyen/github-readme-stats)
 
 ### ⚡ Technologies
 
