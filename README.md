@@ -1,5 +1,5 @@
-### Hi there 👋 It's Rodo here.
-### Gonna-be AI Engineer or SWE or Data Scientist or Blockchain Engineer or Researcher, i don't know, life has too many choices. 
+### Hi there 👋 You found me!
+### I'm a gonna-be AI Engineer or SWE or Data Scientist or Blockchain Engineer or Researcher, i don't know, life has too many choices. 
 
 - 🔭 I’m currently working on BitTracker (Trading Bot) using SuperTrend
 - 🌱 I’m currently learning Machine Learning, Web App
