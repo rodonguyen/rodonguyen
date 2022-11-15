@@ -1,8 +1,8 @@
 ### Hi there 👋 You found my GitHub!
 
-- 🔭 I’m currently working on BitTracker (Trading Bot) using SuperTrend indicator
-- 🌱 I’m learning React and Data Engineer
-- 💼 I'm actively seeking job in Data, AI and Software
+- 💼 I’m currently working at CSIRO-Data61
+- 🔭 In my leisure time, I work on [BitTracker](https://github.com/rodonguyen/BitTracker) (Trading Bot), improve my [personal website](https://rodonguyen.dev/)
+- 🌱 I’m also learning React and Data Engineer
 - 🧍🏽‍♂️ Pronouns: he/him  
 - ⚡ Cryptocurrencies & blockchain enthusiast
 
