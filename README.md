@@ -1,4 +1,4 @@
-### Hi there 👋 You found my GitHub! Why don't you check out my [personal website](https://rodonguyen.dev/) as well (it has dark mode!)
+### Hi there 👋 You found my GitHub! Why don't you check out my *[personal website](https://rodonguyen.dev/)* as well (it has dark mode!)
 
 - 💼 I’m currently working at CSIRO-Data61
 - ⚡ I like AI, Software Application (and Blockchain?)
