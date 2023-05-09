@@ -1,7 +1,7 @@
 ### Hi there 👋 You found my GitHub! Why don't you check out my *[personal website](https://rodonguyen.dev/)* as well (it has dark mode!)
 
-- 💼 I’m currently working at CSIRO-Data61
-- ⚡ I like AI, Software Application (and Blockchain?)
+- 💼 I’m currently applying for Software Engineer / ML Engineer role 
+- ⚡ I like AI, Cool Software Application (and Blockchain?)
 - 🔭 In my leisure time, I work on [BitTracker](https://github.com/rodonguyen/BitTracker) (Trading Bot), CoolerDate App (fullstack, personalise & upgrade asking-for-a-date experience)
 - 🌱 I’m learning to build fullstack app (React, Express, MongoDB) and ETL
 - 🧍🏽‍♂️ Pronouns: he/him  
