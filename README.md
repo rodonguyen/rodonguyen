@@ -6,10 +6,11 @@
 - 🌱 I’m learning TypeScript, distributed system, such as Kafka, Spark, ElasticSearch.
 - 🧍🏽‍♂️ Pronouns: he/him  
 
-[![Rodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodonguyen&count_private=true&show_icons=true&theme=algolia)](https://rodonguyen.dev)   
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodonguyen&count_private=true&langs_count=10&theme=tokyonight)](https://rodonguyen.dev)  
-[![Linkedin Badge](https://img.shields.io/badge/rodonguyen-vn?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodonguyen/)](https://www.linkedin.com/in/rodonguyen/)
+<a href="https://rodonguyen.dev">
+<img src="https://github.com/rodonguyen/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/rodonguyen/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>   
 
+### You have an interesting job? -> [My resume](https://rodonguyen.dev/resume) / [My LinkedIn](https://www.linkedin.com/in/rodonguyen/)
 
-### ⚡ My resume -> [rodonguyen.dev/resume](https://rodonguyen.dev/resume)
 
