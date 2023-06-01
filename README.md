@@ -2,8 +2,8 @@
 
 - 💼 I’m currently applying for Software Engineer / ML Engineer role 
 - ⚡ I like AI, Cool Software Applications (and Blockchain?)
-- 🔭 In my leisure time, I work on [BitTracker](https://github.com/rodonguyen/BitTracker) (Trading Bot), CoolerDate App (fullstack, personalise & upgrade asking-for-a-date experience)
-- 🌱 I’m learning TypeScript, distributed system, such as Kafka, Spark, ElasticSearch.
+- 🔭 In my leisure time, I work on [BitTracker](https://github.com/rodonguyen/BitTracker) (Trading Bot), [CoolerDate](https://github.com/rodonguyen/CoolerDate) (fullstack, personalise & upgrade asking-for-a-date experience)
+- 🌱 I’m learning TypeScript and distributed system, such as Kafka, Spark, ElasticSearch.
 - 🧍🏽‍♂️ Pronouns: he/him  
 
 <a href="https://rodonguyen.dev">
