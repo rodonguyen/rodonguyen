@@ -1,6 +1,7 @@
 ### Welcome to my GitHub! 
 - [My internet footprint](https://rodonguyen.dev/)
 ### Current Projects:
+- Tutorian (coming soon): AI tutor that helps students learn through conversation, with citations grounded in their own course materials
 - [My OpenClaw](https://openclaw.ai/): Keep me updated with Market Research and Summary, help with calendar management, emails, miscellaneous automations.
 - [Lucius Capital](https://lucius.capital/): Full-stack, tailored design, management portals for Lucius Capital's users and admins
 
