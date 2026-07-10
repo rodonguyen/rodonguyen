@@ -1,19 +1,19 @@
-### Welcome to my GitHub! 
-- [My internet footprint](https://rodonguyen.dev/)
-### Current Projects:
-- Tutorian (coming soon): AI tutor that helps students learn through conversation, with citations grounded in their own course materials
-- [My OpenClaw](https://openclaw.ai/): Keep me updated with Market Research and Summary, help with calendar management, emails, miscellaneous automations.
-- [Lucius Capital](https://lucius.capital/): Full-stack, tailored design, management portals for Lucius Capital's users and admins
+### Welcome to my GitHub!
+- I'm Rodo Nguyen — software engineer by day, builder and researcher by night.
+- [personal website](https://rodonguyen.dev/) | 📖 studying Honours: LLM, memory
 
-Ideas:
-- OpenClaw for couples: let the agents play secretary roles for couples: organise plans, dates, budget, understand emotions and feelings of the significant other. 
-- [Pointer - Lead your desktop](https://github.com/rodonguyen/pointer-lead-your-desktop): Think Cluely but with pointers to help navigate your desktop. Especially helpful for non-tech-savy people, e.g. my parents.
-- [Beautiful People AI](https://github.com/rodonguyen/beautiful-people-ai): Clone your favorite human into an AI and make them become your own advisor (Life, Love, Investing, Career, etc.)
+### Building
+- Rivera: Your own liveshow on car - narrating your music playlist with AI, understand your favorite songs, carplay app.
+- Tutorian (coming soon): AI tutor that helps students learn through conversation, with citations grounded in their own course materials.
+- [Lucius Capital](https://lucius.capital/): tailored design, full-stack, management portals for Lucius Capital.
+- [Hermes](https://hermes-agent.nousresearch.com/): miscellaneous automations and computer work; not much use to be honest.
 
-Done & Maintainance:
-- [Lava Lamp](https://github.com/rodonguyen/lava-lamp): threejs, claude code and lots of prompts
-- [Time I Have Left](https://rodonguyen.dev/apps/timeihaveleft): Look at life from the 'percentage' perspective
+### Ideating
+- Roxxy: turns papers, PDFs, arXiv links, and articles into shorts, explainers, podcasts, and driving-friendly knowledge media.
+- HomeLab / Hermes for Parents: family NAS plus a Vietnamese-first, parent-friendly AI agent.
 
-Archived:
-- [Fav Stop](https://github.com/rodonguyen/fav-bus-stop): bookmark your fav bus stops, view it in one screen - no lag, real-time schedule update
-- [BitTracker](https://github.com/rodonguyen/bittracker2024): Trade bitcoin algorithmically
+### Archived
+- [Lava Lamp](https://lavalamp-rodonguyendev.netlify.app/): three.js, Claude Code, and lots of prompts.
+- [Time I Have Left](https://rodonguyen.dev/apps/timeihaveleft): look at life from the percentage perspective.
+- [Fav Stop](https://github.com/rodonguyen/fav-bus-stop): bookmark your favorite bus stops and view them in one screen with real-time schedule updates.
+- [BitTracker](https://github.com/rodonguyen/bittracker2024): trade Bitcoin algorithmically.
