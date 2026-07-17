@@ -13,6 +13,7 @@
 - HomeLab / Hermes for Parents: family NAS plus a Vietnamese-first, parent-friendly AI agent.
 
 ### Archived
+- [LightMaster](https://github.com/rodonguyen/LightMaster): adjust brightness for built-in and external monitors from one Windows app.
 - [Lava Lamp](https://lavalamp-rodonguyendev.netlify.app/): three.js, Claude Code, and lots of prompts.
 - [Time I Have Left](https://rodonguyen.dev/apps/timeihaveleft): look at life from the percentage perspective.
 - [Fav Stop](https://github.com/rodonguyen/fav-bus-stop): bookmark your favorite bus stops and view them in one screen with real-time schedule updates.
