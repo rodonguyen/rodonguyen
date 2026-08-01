@@ -5,6 +5,7 @@
 ### Building
 - Rivera: Your own liveshow on car - narrating your music playlist with AI, understand your favorite songs, carplay app.
 - [Lucius Capital](https://lucius.capital/): tailored design, full-stack, management portals for Lucius Capital.
+- [Brisbane Parking Finder](https://brisbane-parking-finder.netlify.app/): find a free parking bay before you circle the block.
 - [Hermes](https://hermes-agent.nousresearch.com/): miscellaneous automations and computer work; not much use to be honest.
 
 ### Ideating
