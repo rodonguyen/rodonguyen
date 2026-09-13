@@ -1,19 +1,17 @@
 ### Welcome to my GitHub!
-- I'm Rodo Nguyen — software engineer by day, builder and researcher by night.
-- [personal website](https://rodonguyen.dev/) | 📖 studying Honours: LLM, memory
+- I'm [Rodo Nguyen](https://rodonguyen.dev/) | 📖 studying Honours: LLM, memory | software engineer by day, builder and researcher by night.
 
 ### Building
-- Rivera: Your own liveshow on car - narrating your music playlist with AI, understand your favorite songs, carplay app.
 - [Lucius Capital](https://lucius.capital/): tailored design, full-stack, management portals for Lucius Capital.
 - [Brisbane Parking Finder](https://brisbane-parking-finder.netlify.app/): find a free parking bay before you circle the block.
-- [Hermes](https://hermes-agent.nousresearch.com/): miscellaneous automations and computer work; not much use to be honest.
+- [Hermes](https://hermes-agent.nousresearch.com/): miscellaneous automations and computer work; learning to better automate my life with it
 
 ### Ideating
-- Ninasan: AI tutor that helps students learn through conversation, with citations grounded in their own course materials.
-- Roxxy: turns papers, PDFs, arXiv links, and articles into shorts, explainers, podcasts, and driving-friendly knowledge media.
-- HomeLab / Hermes for Parents: family NAS plus a Vietnamese-first, parent-friendly AI agent.
+- Roxxy: voice-first interface to talk to your Hermes or any personal agent, work on your files on the road, basically Siri but with more power and can take real actions on your computer.
+- Ninasan: personalized AI (Hermes-like engine underneath) for Vietnamese with more affordable pricing
 
 ### Archived
+- Hermes for Parents: a Vietnamese-first, parent-friendly AI agent.
 - [LightMaster](https://github.com/rodonguyen/LightMaster): adjust brightness for built-in and external monitors from one Windows app.
 - [Lava Lamp](https://lavalamp-rodonguyendev.netlify.app/): three.js, Claude Code, and lots of prompts.
 - [Time I Have Left](https://rodonguyen.dev/apps/timeihaveleft): look at life from the percentage perspective.
